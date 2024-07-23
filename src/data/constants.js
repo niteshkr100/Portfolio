@@ -336,8 +336,8 @@ export const projects = [
       "https://raw.githubusercontent.com/niteshkr100/imagesforwork/main/%20reduxtodo.png",
     tags: ["React Js", "Local Storage", "Api", "Node JS"],
     category: "web app",
-    github: "https://github.com/niteshkr100/DiceGame",
-    webapp: "https://niteshkr100.github.io/DiceGame/",
+    github: "https://github.com/niteshkr100/Todo-With-RToolkit",
+    webapp: "todo-with-r-toolkit.vercel.app",
   },
  
  
